@@ -1,3 +1,3 @@
-# [How to learn](https://how-to-learn.now.sh/) n
+# [How to learn](https://how-to-learn.now.sh/)
 Научиться учиться - одностраничный сайт о современных подходах к обучению.
 Основной стек технологий - HTML5 (БЭМ-верстка), CSS3 (Flexbox, grid)
